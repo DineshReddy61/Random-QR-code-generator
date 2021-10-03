@@ -1,1 +1,1 @@
-# Random-QR-code-generator
+RandomQR was created to easily create QR codes for testing purposes where context isn't hugely important.In this code whatever the subject name u are giving,it will generate the QR code of that subject.
